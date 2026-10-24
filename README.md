@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this Hack The Box Sherlock lab, I conducted a Digital Forensics and Incident Response (DFIR) investigation into a compromised WordPress server. Using Splunk SIEM, I analyzed Apache2 access logs to identify suspicious activity, reconstruct the attack timeline, and determine how the attacker gained unauthorized access.
+I conducted a Digital Forensics and Incident Response (DFIR) investigation into a compromised WordPress server. Using Splunk SIEM, I analyzed Apache2 access logs to identify suspicious activity, reconstruct the attack timeline, and determine how the attacker gained unauthorized access.
 
 The investigation involved identifying reconnaissance activity, analyzing brute-force login attempts, and investigating a PHP web shell used to maintain access to the compromised server.
 
